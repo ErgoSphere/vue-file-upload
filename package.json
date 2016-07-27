@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A drag and drop (with fallback) file uploader component for Vue.js",
   "author": "Aaron Hipple <ahipple@gmail.com>",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
